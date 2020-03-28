@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 from collections import deque
 
@@ -8,6 +8,8 @@ from collections import deque
 # Solution: Configure the logs to show a "Request ID" (%L in the log format)
 #     and run this on them.
 
+# This is free and unencumbered software released into the public domain.
+# See UNLICENSE.txt for details.
 
 ##############################################################
 # Config, these should probably come from command line
